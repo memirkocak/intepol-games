@@ -1,0 +1,35 @@
+.home-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid #C20000;
+    width: 30%;
+    margin: 50px auto;
+    gap: 50px;
+    padding: 10px 50px;
+}
+
+.home-title {
+    font-size: 42px;
+    font-weight: bold;
+    color: #004373;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.play-button {
+    padding: 12px 30px;
+    background-color: #C20000;
+    border-radius: 3px;
+    font-size: 20px;
+    color: #FFFFFF;
+    border: none;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.profile-image {
+    width: 100%;
+    height: 100%;
+}
