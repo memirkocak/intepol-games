@@ -1,13 +1,16 @@
 import Header from "../components/Header";
 import "../App.css";
-
+import Footer from "../components/Footer";
 
 export default function Root( { children } ) {
     return (
         <>
-        <section>
+        <section className="root-layout">
             <Header />
-            { children }
+            <main className="main-content">
+                { children }
+            </main>
+            <Footer />
         </section>
         </>
     )
