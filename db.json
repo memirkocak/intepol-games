@@ -1,0 +1,60 @@
+{
+  "suspects": [
+    {
+      "id": 1,
+      "firstname": "Rosirene",
+      "lastname": "Viera",
+      "sex": "Female",
+      "country": "Brazil",
+      "height": 1.65,
+      "eyeColor": "Brown",
+      "languages": ["English"],
+      "charge": "Murder"
+    },
+    {
+      "id": 2,
+      "firstname": "Ana",
+      "lastname": "Costa",
+      "sex": "Female",
+      "country": "Brazil",
+      "height": 1.7,
+      "eyeColor": "Hazel",
+      "languages": ["English"],
+      "charge": "Thief"
+    },
+    {
+      "id": 3,
+      "firstname": "Beatriz",
+      "lastname": "Lima",
+      "sex": "Female",
+      "country": "Brazil",
+      "height": 1.6,
+      "eyeColor": "Green",
+      "languages": ["Spanish"],
+      "charge": "Murder"
+    },
+    {
+      "id": 4,
+      "firstname": "Camila",
+      "lastname": "Souza",
+      "sex": "Female",
+      "country": "Brazil",
+      "height": 1.68,
+      "eyeColor": "Brown",
+      "languages": ["Portuguese"],
+      "charge": "Thief"
+    },
+    {
+      "id": 5,
+      "firstname": "Daniela",
+      "lastname": "Rocha",
+      "sex": "Female",
+      "country": "Brazil",
+      "height": 1.72,
+      "eyeColor": "Blue",
+      "languages": ["English"],
+      "charge": "Murder"
+    }
+  ]
+}
+
